@@ -1,0 +1,34 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title></title>
+<title>Stambulas vēsture</title>
+
+<style>
+
+ body {
+    background: #fffdd0;
+    color: #013220;
+   }
+   
+p,h1{
+font-family: Verdana;
+}
+
+h1{
+text-align: center;
+}
+
+<img src="">
+
+</style>
+
+</head>
+
+<body>
+<h1>Vēsture</h1>
+<p>667. gadā p.m.ē. sengrieķu kolonisti no Megaras pilsētas nodibināja pilsētu, ko nosauca par Bizantiju <b><i>(Βυζάντιον)</b></i> sava valdnieka Biza vārdā.<br> 330. gadā Konstantīns Lielais izvēlējās Bizantiju par Romas impērijas galvaspilsētu un nosauca to savā vārdā par Konstantinopoli<b><i>(Konstantinoúpolis)</b></i>.<br> 1453. gada 29. maijā Konstantinopoli ieņēma turki, un tā kļuva par Osmaņu impērijas galvaspilsētu ar nosaukumu Konstantīnija <b><i>(Konstantiniye)</b></i>.</p>
+<p>Par Stambulu <b><i>(İstanbul)</b></i> pilsētu oficiāli pārsauca tikai Turcijas Republikas laikā 1930. gada 28. martā.</p>
+</body>
+</html>

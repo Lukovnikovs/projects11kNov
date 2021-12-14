@@ -1,0 +1,37 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Statistikas dati</title>
+</head>
+<body style="font-family:arial;">
+
+<style>
+
+ body {
+    background: #fffdd0;
+    color: #177245;
+   }
+   
+p,h1{
+font-family: Verdana;
+}
+
+h1{
+text-align: center;
+}
+
+</style>
+<h1 style="text-align:center;">Statistikas dati</h1>
+<style>
+body {
+    
+    color: #177245;
+   }
+<p>Uz 2015. gada 31. decembri.</p>
+</style>
+<p>Kopējā platība: 1 539 km2 (aglomerācija 5 343 km2).</p>
+<p>Iedzīvotāji: 14 100 000 (aglomerācija  14 657 434).</p>
+   <img src="C:\Users\dell\Desktop\Pro\8P_06_03_U1\Karte.jpg">
+</body>
+</html>
